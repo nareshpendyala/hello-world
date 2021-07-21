@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+mnist/__init__.py
+mnist.egg-info/PKG-INFO
+mnist.egg-info/SOURCES.txt
+mnist.egg-info/dependency_links.txt
+mnist.egg-info/requires.txt
+mnist.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Topics Covered in the session:
+1. Convolutional Neural Networks(CNN)
+2. Basic Auto-Encoders
+3. Depp Auto-Encoders
+4. Denoising Auto-Encoders
+5. Variational Auto-Encoders
+6. Generative Adversarial Network (GAN)
+
+1. Recurrent Neural Networks (RNN)
+2. Long Short Term Memory (LSTM)
+3. Gated Recurrent Unit (GRUs)
+

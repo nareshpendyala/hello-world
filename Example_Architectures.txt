@@ -1,0 +1,34 @@
+List of Architecture that can be considered for Analytics 4 final presentation
+Note: They are just examples, not mandatory to select from these only.
+
+ZFNet
+SPPNets
+InceptionNet
+Fast RCNN
+YOLO
+ResNet
+Faster RCNN
+SSD
+Mask RCNN
+CAPSNet 
+GoogLeNet
+ResNet
+MobileNet
+DenseNet
+Xception
+
+
+Auto-Encoders Types:
+
+Contractive Auto-Encoders
+Stacked Convolutional Auto-Encoders
+Generative Stochastic Network
+Winner Take all Auto-Encoders
+Adversarial Auto-Encoders
+
+GANs types:
+
+Progressive GANs
+Conditional GANs
+Image-to-Image Translation GANs
+CycleGAN
